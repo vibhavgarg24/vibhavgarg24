@@ -1,8 +1,10 @@
 ### Hi there 👋 
 ## Coding Profile Stats:
+### GeeksForGeeks
 
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vibhavgarg24)](https://auth.geeksforgeeks.org/user/vibhavgarg24/practice/)
 
+### Leetcode
 <a href="https://leetcode.com/mrRyuga">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=mrRyuga&theme=dark" width="350"/>
 </a>
