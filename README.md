@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+## Coding Profile Stats:
+
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=vibhavgarg24)](https://auth.geeksforgeeks.org/user/vibhavgarg24/practice/)
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=mrRyuga&theme=dark" width="400"/>
+</a>
 
 <!--
 **vibhavgarg24/vibhavgarg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
